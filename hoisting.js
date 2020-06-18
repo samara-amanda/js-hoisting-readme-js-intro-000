@@ -27,5 +27,5 @@ function sayMyName() {
     var name = "Cricky";
 
   }
-sayMyName();
+sayMy();
 }
