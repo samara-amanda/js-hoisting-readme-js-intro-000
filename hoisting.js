@@ -20,11 +20,11 @@ thisIsCrazy();
 
 function sayMyName() {
   // fix the code in here:
-  var name = "Kristin";
-  
+  var name = "Cricky";
+
   function sayMy() {
     console.log(name);
-    var name = "Cricky";
+    var name = "Kristin";
 
   }
 sayMy();
